@@ -1,2 +1,2 @@
-# desafio_git_hu8
+# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
 Desafio de Projeto Git/GitHub
